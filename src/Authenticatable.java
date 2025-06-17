@@ -3,4 +3,5 @@ public interface Authenticatable {
     String otp();
     String password();
     String passkey();
+
 }
